@@ -55,3 +55,19 @@ h1 {
     text-align: center;
     margin: 50px 0 20px;
 }
+
+.footer {
+    width: 100vw;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+.footer-info {
+    /* font-size: large; */
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
