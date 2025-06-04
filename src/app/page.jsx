@@ -22,7 +22,10 @@ function BaghChal() {
 
     return (
         <div>
-            <h1>Bagh-Chal</h1>
+            <div className='header'>
+                <h1>Bagh-Chal</h1>
+                <a href='https://en.wikipedia.org/wiki/Bagh-chal'>(규칙 보기)</a>
+            </div>
             <Board
                 goatsPlaced={goatsPlaced}
                 setGoatsPlaced={setGoatsPlaced}
