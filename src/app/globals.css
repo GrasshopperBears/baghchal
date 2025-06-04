@@ -45,8 +45,13 @@ a {
 }
 
 div {
-    width: fit-content;
-    height: fit-content;
+    /* width: fit-content;
+    height: fit-content; */
     align-items: center;
     vertical-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 0 20px;
 }
