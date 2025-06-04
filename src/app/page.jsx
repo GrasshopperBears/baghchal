@@ -53,7 +53,7 @@ function BaghChal() {
                     <ins
                         className='kakao_ad_area'
                         style={{ display: 'none' }}
-                        data-ad-unit='DAN-8OF5DE5VnWGYbB0K'
+                        data-ad-unit='DAN-foIxQvdkumPRmaNw'
                         data-ad-width='728'
                         data-ad-height='90'
                     ></ins>
